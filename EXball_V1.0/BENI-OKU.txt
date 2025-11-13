@@ -1,0 +1,6 @@
+EXball i acmak Icin SDL2 yi indirmeniz Lazim 
+Sadece Linux Icin Derlenmisdir !
+Eger Windows Kullaniyorsaniz Kodlari Kurucudan Isteyip Kendiniz Windows Icin Derleyebilirsiniz
+
+Telif Haklari: E9K.com.tr
+Kurucu Discord: Anyac4
